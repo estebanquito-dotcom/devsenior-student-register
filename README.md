@@ -1,6 +1,6 @@
 # Product Management System - Module 1 📦
 
-Welcome! This is my first integrative project for the Java programming course. It is a console-based application designed to manage basic product information by applying the fundamentals of structured programming.
+Welcome! This is my first integrative project for the Java programming course. It is a console-based application designed to manage basic product information by applying the fundamentals of modular programming.
 
 ## Features
 
